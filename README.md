@@ -1,1 +1,1 @@
-# Infraestructura-1 - Practica-2
+# Infraestructura-1  Practica-2
